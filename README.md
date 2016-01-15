@@ -47,9 +47,6 @@ When applicable, the latter regexes are much easier and safer to write, but the 
 
 Anyway, I would welcome any ideas you might have, especially if there are ways to code this to be faster (in Python, not C, and easy-to-read is preferred). Currently, on a large file, each broad regex takes only a couple hundred milliseconds to complete, but a narrow one takes about 130,000 milliseconds (i.e. about 2 minutes). I'd like to speed this up so a couple dozen narrow regexes could run reasonably quickly (no more than 5 min total?).
 
-Here are the tools and a small sample, in a zip file (a large sample is available on request):
-https://www.sugarsync.com/pf/D342747_6399192_132531
-
-Blessings,
+Thanks,
 Jon
 
