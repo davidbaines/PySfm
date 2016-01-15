@@ -244,9 +244,9 @@ def execute(args):
     fnameregex = args['regexfile']
     overwrite = args['overwr']
     record_marker, regexes = get_regexes(fnameregex)
-    no_narrow = True
+    some_narrow = False
     for regex in regexes:
-        if regex.narrow: no_narrow = False
+        if regex.narrow: some_narrow = True
     
     modcount=0
     if not overwrite and os.path.exists(fnameout):
@@ -257,53 +257,52 @@ def execute(args):
             data = infile.read() #read the whole data file into memory (even though SFMTools doesn't require this)
         t = RoughTimer()
        
-        if no_narrow:
-            print("Applying {} regular expressions (all are broad) ...".format(len(regexes)))
-        else:
+        if some_narrow:
             print("Applying regular expressions (some are narrow)...")
+        else:
+            print("Applying {} regular expressions (all are broad) ...".format(len(regexes)))
 
-        if True:
+        if some_narrow:
             try:
                 import SFMTools as sfm  #although NLTK has similar functionality too
-                i=0
-                modcounttotal = 0
-                for regex in regexes:
-                    i+=1
-                    modcount = 0 
-                    print('  just took: {}'.format(t.just_elapsed()))
-                    #msg = 'applying regex {} of {}'.format(i, len(regexes))
-                    msg = 'applying regex {} of {}: \n    {}\n    {}'.format(i, len(regexes), regex._findstr, regex._replace)
-                    msg = ascii(msg)
-                    data_out = io.StringIO('') #initialize an empty stream object
-
-                    if not regex.narrow:
-                        print('Broadly', msg)
-                        data, count = regex.apply(data)
-                        modcount += count
-
-                    else:
-                    #TODO: POOR PERFORMANCE! the section below needs to be optimized, probably in the apply_narrowly() code
-                    # It seems inefficient to process the header and parse the file into a list every time, but that seems necessary.
-                    # (Regexes could change record boundaries, delete records, etc., so it's better to reload.) And I doubt that's
-                    # the main problem, since the script is slow even when only a single (narrow) regex is applied.
-                        print('Narrowly', msg)
-                        sfm_records = sfm.SFMRecordReader(data, record_marker)
-                        data_out.write(sfm_records.header) 
-                        for sfm_record in sfm_records:
-                            L = sfm_record.as_lists() #returns a pointer to a MODIFIABLE list object 
-                            L, count = regex.apply_narrowly(L) #modifies the list
-                            modcount += count
-                            #TODO: Consider caching the following as it is, if the next regex is 'narrow' too, so as to not have to reparse the SFM file/string
-                            data_out.write(sfm_record.as_string()) 
-                            data = data_out.getvalue() 
-                    print('  made {} changes'.format(modcount))
-
-                    modcounttotal += modcount
-
-
             except ImportError:
                 run_sample(regexes)  #just play with a pre-parsed sample
                 raise Exception('Aborted.')
+                
+        i=0
+        modcounttotal = 0
+        for regex in regexes:
+            i+=1
+            modcount = 0 
+            print('  just took: {}'.format(t.just_elapsed()))
+            #msg = 'applying regex {} of {}'.format(i, len(regexes))
+            msg = 'applying regex {} of {}: \n    {}\n    {}'.format(i, len(regexes), regex._findstr, regex._replace)
+            msg = ascii(msg)
+            data_out = io.StringIO('') #initialize an empty stream object
+
+            if not regex.narrow:
+                print('Broadly', msg)
+                data, count = regex.apply(data)
+                modcount += count
+
+            else:
+            #TODO: POOR PERFORMANCE! the section below needs to be optimized, probably in the apply_narrowly() code
+            # It seems inefficient to process the header and parse the file into a list every time, but that seems necessary.
+            # (Regexes could change record boundaries, delete records, etc., so it's better to reload.) And I doubt that's
+            # the main problem, since the script is slow even when only a single (narrow) regex is applied.
+                print('Narrowly', msg)
+                sfm_records = sfm.SFMRecordReader(data, record_marker)
+                data_out.write(sfm_records.header) 
+                for sfm_record in sfm_records:
+                    L = sfm_record.as_lists() #returns a pointer to a MODIFIABLE list object 
+                    L, count = regex.apply_narrowly(L) #modifies the list
+                    modcount += count
+                    #TODO: Consider caching the following as it is, if the next regex is 'narrow' too, so as to not have to reparse the SFM file/string
+                    data_out.write(sfm_record.as_string()) 
+                    data = data_out.getvalue() 
+            print('  made {} changes'.format(modcount))
+
+            modcounttotal += modcount
 
         with open(fnameout, mode='w', encoding='utf-8') as outfile:
                 outfile.write(data)
