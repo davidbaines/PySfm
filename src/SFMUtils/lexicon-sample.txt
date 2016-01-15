@@ -1,0 +1,33 @@
+﻿\_sh v3.0  231  MDF 4.0
+\_DateStampHasFourDigitYear
+
+\lx axe
+\va axxe
+\de foo eeh
+\se yeeda. The sphynx got the axe.
+\de bee sinax
+\dt 17/Sep/2008
+\xv zzz xv sinax
+\dt 11/Sep/2008
+\nt skdjf
+
+
+
+\lx sphynxy
+
+
+\nt dklfj
+\dt 1/Sep/2008
+
+
+
+
+\lx sphynxier
+\dt 16/Sep/2008
+\nt skdjf
+\dt 10/Sep/2008
+\nt skdjf
+\nt skdjf
+\hd foo
+\pr bar
+

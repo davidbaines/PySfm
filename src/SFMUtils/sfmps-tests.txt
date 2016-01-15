@@ -1,0 +1,31 @@
+﻿\lx ddd
+\ps n
+\sn 1
+\ge noun sense1
+\sn
+\ge noun sense2
+\ps v
+\sn 3
+\ge verb sense1
+
+\lx eee
+\ps n
+\sn 1
+\ge noun sense1
+\ps
+\sn
+\ge noun sense2
+\ps v
+\sn 3
+\ge verb sense1
+
+\lx fff
+\ps n
+\sn 1
+\ge noun sense1
+\ps n
+\sn
+\ge noun sense2
+\ps v
+\sn 3
+\ge verb sense1

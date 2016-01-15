@@ -1,0 +1,50 @@
+﻿
+Record count (lx): 15
+Entry count (['lx', 'se', 'seco']): 15
+SFM markers (non-empty count , total count , name):
+  1 , 1 , dn
+  1 , 1 , dt
+  2 , 2 , de
+  3 , 3 , nt
+  6 , 6 , hm
+  7 , 7 , mn
+  15 , 15 , lx
+
+Checked (very roughly) the relative order of ps and sn (Having a mix of hierarchies is bad! Standard MDF has ps above one or more sn, but limiting it to one sn per ps imports better into FLEx. LT-9353 LT-10739):
+  ps occurred first in 0 records
+  sn occurred first in 0 records
+  neither one occurred in 15 records
+Checked roughly for missing ps; it is missing in 15 records.
+In both cases, only checked records, not individual senses/subentries.
+WARNING: If importing into FLEx, empty ps fields are a problem. If you have any, consider using find/replace to insert an explicit 'unknown' value (LT-10739, LT-14038).
+
+Non-ASCII characters (characters above char 127):
+ count , char , code point , name
+  1 , स , \u0938 , DEVANAGARI LETTER SA
+  1 , ि , \u093f , DEVANAGARI VOWEL SIGN I
+  1 , र , \u0930 , DEVANAGARI LETTER RA
+  1 , ग , \u0917 , DEVANAGARI LETTER GA
+  1 , श , \u0936 , DEVANAGARI LETTER SHA
+  1 , ो , \u094b , DEVANAGARI VOWEL SIGN O
+  1 , प , \u092a , DEVANAGARI LETTER PA
+  1 , ु , \u0941 , DEVANAGARI VOWEL SIGN U
+  2 , ा , \u093e , DEVANAGARI VOWEL SIGN AA
+  2 , व , \u0935 , DEVANAGARI LETTER VA
+  2 , ् , \u094d , DEVANAGARI SIGN VIRAMA
+  2 , य , \u092f , DEVANAGARI LETTER YA
+  3 , अ , \u0905 , DEVANAGARI LETTER A
+
+Tallying values for specified fields... (['lf', 'ps', 'pn', 'sn'])
+
+
+Checking links...  (for link fields ['cf', 'sy', 'mn', 'an', 'lv'] targeting ['lx', 'se', 'seco'])
+WARNING: ambiguous link (multiple matches) in record (aa good simple link), which is near line 9; link in field mn (line 10?) pointing to target (aa). This may only be a problem for the FLEx importer. (LT-10733)
+ERROR: broken link in record (aa good link to first homograph may fail), which is near line 12; link in field mn (line 13?) pointing to target (aa1). There is no record for that link target.
+ERROR: broken link in record (aa bad simple link), which is near line 15; link in field mn (line 16?) pointing to target (aaxx). There is no record for that link target.
+WARNING: ambiguous link (multiple matches) in record (aa good numbered link), which is near line 18; link in field mn (line 19?) pointing to target (aa2). This may only be a problem for the FLEx importer. (LT-10733)
+ERROR: broken link in record (aa bad numbered link where aa exists), which is near line 21; link in field mn (line 22?) pointing to target (aa3). There is no record for that link target.
+ERROR: broken link in record (aa bad numbered link where aaxx doesn't exist), which is near line 24; link in field mn (line 25?) pointing to target (aaxx3). There is no record for that link target.
+ERROR: broken link in record (ab good numbered link using hm), which is near line 33; link in field mn (line 34?) pointing to target (ab3). There is no record for that link target.
+Problematic links: 5
+Problematic for FLEx importer only: 2
+Clearly good links: 0

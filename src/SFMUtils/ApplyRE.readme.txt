@@ -1,0 +1,22 @@
+This Python 3.x module provides a class for applying regular expressions. 
+
+If run as a script, it will take an input file (plain text) and a set of regexes saved 
+as a text file (a sample file is provided) and will output a converted text file. You 
+can specify these files via the command line, or else just name your input file to match the 
+provided default.
+If you use it often, you can 'install' it by adding the SFMUtils folder to your Windows PATH. 
+Appending ";.PY;.PYW" to the PATHEXT variable will allow you to leave off the ".py" . More details here:
+http://linguisticsoftware.wordpress.com/2012/11/23/running-python-scripts-conveniently-under-windows/
+
+Sample command-line calls (the first just displays help, the second converts 
+input.txt to output.txt, overwriting it if it's there):
+python ApplyRE.py -h
+python ApplyRE.py -o input.txt output.txt
+
+In Windows, you may want to create a batch file that you can easily double-click to run this. But don't name it ApplyRE.bat
+Example 1:
+python ApplyRE.py -o
+pause
+Example 2:
+C:\Python32\python.exe ApplyRE.py "C:\temp\myfile.txt" "C:\temp\out.txt" -o
+pause

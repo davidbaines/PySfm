@@ -1,0 +1,72 @@
+﻿{{
+This is a config file for a Python script, ApplyRE.py
+Try running it via the BAT file and comparing its output with the input file. (Some hints below.)
+TIP: It often helps to disable other regexes in order to focus in on the one you're examining.
+TIP: Order matters! Earlier regexes are run before later ones.
+}}
+
+SFM record marker: lx
+
+##Replace post-vocalic x with ks within certain vernacular fields (narrow syntax--SLOW!)
+sfmval: se lx va
+([aeiou])x
+\1ks
+
+##Replace post-vocalic x with ks within the vernacular field, \lx (broad syntax--fast)
+disable
+^(\\(se|lx|va)\b.*[aeiou])x(.*)$
+\1ks\2
+
+## Replace all h with Q (anywhere; oops--this damages the header marker)
+disable  broad
+h
+Q
+
+## Replace all h with Q (in sfm values only)
+sfmval
+h
+Q
+
+## Replace all Q or v with W, in any field (but not in markers or the header)
+sfmval 
+[Qv]
+W
+
+## Replace all \xv with \xX; fyi, hex characters are of the form \xhh; 
+## hence the [x] or (x) to avoid that syntax.
+disable
+^\\[x]v\b
+\\xX
+
+## Replace all \xv with \xZ; fyi, hex characters are of the form \xhh; 
+## hence the [x] or (x) to avoid that syntax. Will fail if the previous regex is enabled.
+broad
+^\\[x]v\b
+\\xZ
+
+## Rename these fields to a single field, \extra, but then label their content
+disable broad
+^\\(exRom|cfS|cmnt|cmnte|hd|lxno|per|pr|prctEng|trnsx|u)\b
+\\extra \1:
+
+## Remove any extra newlines preceding lx, se, or dt (1)  
+## TIP: dt is included here because each time it gets moved down it can get white space above it.
+broad
+\n+(\n\\(lx|se|dt))
+\1
+
+## Add one extra line before se or lx... (2)
+broad
+^\\(lx|se)\b
+\n\\\1
+
+## ...and add a second extra line before lx (3)
+broad
+^(\\lx\b)
+\n\1
+
+## If there are multiple date fields in one entry, delete them all.
+broad
+^\\dt\b.*\n(^\\dt\b.*\n)+
+
+

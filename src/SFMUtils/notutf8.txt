@@ -1,0 +1,4230 @@
+\_sh v3.0  400  MDF_Nd
+
+\lx àdha
+\ps v tr
+\ge to chew, to eat (meat)
+\gf manger (de la  viande)
+\gs kutafuna, kula (nyama)
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx àmí
+\ps poss
+\ge his, her 3sg m/f
+\gf son, sa, ses
+\gs yake
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx bà
+\ps n
+\ge wild cat
+\gf chat sauvage
+\gs paka ya pori
+
+\xv
+\xe
+
+\dt 12/Aug/2010
+
+\lx bba
+\ps n
+\ge homestead, village
+\gf village
+\gs mungini
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bba-dja, pl. bba-djá
+\ps n cp
+\ge home owner
+\gf propriétaire
+\gs mwenyeji
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx bbalè
+\ps n cp
+\ge people
+\gf gens
+\gs watu
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx bbayi
+\ps n
+\ge compound
+\gf cour
+\gs kiwanja
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bbâ
+\ps n
+\ge kob
+\gf animal sauvage, esp.
+\gs aina ya nyama ya pori
+
+\xv
+\xe
+
+\dt 09/Dec/2010
+
+\lx bbàdha
+\ps v tr
+\ge to leave
+\gf abandonner
+\gs kuacha
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx bbǎla
+\ps n
+\ge dove
+\gf pigeon
+\gs njiwa
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bbi
+\ps adv
+\ge down
+\gf en bas
+\gs chini
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx bbiy
+\ps n
+\ge egg
+\gf oeuf
+\gs yai
+
+\xv
+\xe
+
+\dt 09/Dec/2010
+
+\lx bbiydha
+\ps n
+\ge journey
+\gf voyage
+\gs safari
+\xv
+\xe
+\dt
+
+\lx bbì
+\ps n
+\ge fish
+\gf poisson
+\gs samaki
+
+\xv
+\xe
+
+\dt 09/Dec/2010
+
+\lx bbìdha
+\ps v tr
+\ge to dig, to cultivate
+\gf cultiver, labourer
+\gs kulima
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bbíydha
+\ps v i
+\ge to walk, to travel
+\gf se promener, voyager
+\gs kutembea, kusafiri
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx bbléy
+\ps ideo
+\ge deep down
+\gf profond
+\gs ndani
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx bbòbbò, bbò
+\ps adv
+\ge slowly
+\gf lentement
+\gs pole pole
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx -bbutsò
+\ps n cp inal
+\ge hip
+\gf hanche
+\gs kiuno
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx bbuw
+\ps n
+\ge hole
+\gf trou
+\gs shimo
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx bbuwnì  pl. bbúwní
+\ps n
+\ge grandfather, ancestor
+\gf grand-père, ancêtre
+\gs babu
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx bbǔbbú
+\ps n
+\ge morning
+\gf matin
+\gs asubuhi
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx bbúdha
+\ps v tr
+\ge to give
+\gf donner
+\gs kupa, kupatia
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx bèydha
+\ps v tr sg
+\ge to burn
+\gf brûler
+\gs kuchoma
+
+\xv
+\xe
+\is
+\tr
+
+\dt 10/Jan/2013
+
+\lx béydha
+\ps v tr pl
+\ge to roast
+\gf griller
+\gs kukalanga
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx biymo
+\ps n
+\ge baboon
+\gf babouin
+\gs abula
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bídha
+\ps v tr
+\ge to play football
+\gf jouer au ballon
+\gs kucheza mpira
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx bìdha
+\ps v tr
+\ge to dance
+\gf danser
+\gs kukesa makeso
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bǐy
+\ps n
+\ge moon
+\gf lune
+\gs mwezi
+
+\xv
+\xe
+
+\dt 09/Dec/2010
+
+\lx bu
+\ps n
+\ge corpse
+\gf cadavre
+\gs maiti
+
+\xv
+\xe
+
+\dt 13/Aug/2010
+
+\lx bùdha
+\ps v tr
+\ge to throw stones
+\gf jeter des pierres, lapider
+\gs kutupa mawe
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx bǔkù
+\ps n
+\ge book
+\gf livre
+\gs kitabu
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx chá
+\ps dem
+\ge that
+\gf cela
+\gs ile
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx cherr
+\ps n
+\ge sin
+\gf péché
+\gs zambi
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx chěy
+\ps adv
+\ge straight
+\gf droit
+\gs wima
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx chèydha
+\ps v tr
+\ge to tie
+\gf lier, attacher
+\gs kufunga
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx chèydha
+\ps v i
+\ge to fall
+\gf tomber
+\gs kuanguka
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx chichi
+\ps adv
+\ge close to each other
+\gf proche, serré
+\gs karibu
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx chì
+\ps n
+\ge oil
+\gf huile, pommade
+\gs mafuta
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx chìchì
+\ps n
+\ge earthquake
+\gf tremblement de terre
+\gs tetemeko la ardhi
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx chídha
+\ps v tr
+\ge to wake s.o.
+\gf réveiller qn
+\gs kulamusha
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx chìdha
+\ps v tr
+\ge to kill many, to massacre
+\gf massacrer
+\gs kuua wengi
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx chíydha
+\ps v tr
+\ge to step on
+\gf écraser
+\gs kukanyaga
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx chowchow
+\ps adv
+\ge very near
+\gf très proche
+\gs karibu sana
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx chódha
+\ps v tr
+\ge to nail
+\gf clouer
+\gs kupiga msumari
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx chódha
+\ps v tr
+\ge to send
+\gf envoyer
+\gs kutuma
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx -chuw
+\ps n inal
+\ge voice
+\gf voix
+\gs sauti
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx -chuwtèy
+\ps n cp inal
+\ge neck
+\gf cou
+\gs shingo
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx chù
+\ps n
+\ge vegetable, gen.
+\gf légumes
+\gs mboga
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx chú
+\ps conj
+\ge but
+\gf mais
+\gs lakini
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx chùwdha
+\ps v tr
+\ge to find
+\gf trouver
+\gs kupata
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx chwo
+\ps n
+\ge year
+\gf année
+\gs mwaka
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx chwǒ
+\ps n
+\ge hare
+\gf lièvre
+\gs sungura
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx chwódha
+\ps v tr
+\ge to send
+\gf envoyer
+\gs kutuma
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx chídha
+\ps v i imp
+\ge to be frightened
+\gf être effrayé
+\gs kushtuka
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx chídha
+\ps v i
+\ge to get frightened
+\gf être effrayé
+\gs kushtuka
+\xv
+\xe
+\dt 12/Jan/2013
+
+\lx chìydha
+\ps v tr pl ?
+\ge to step on
+\gf écraser
+\gs kukanyaga
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx -dà
+\ps n inal
+\ge tongue
+\gf langue (organe)
+\gs ulimi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx dàdha
+\ps v i
+\ge to pass, to surpass, to cross
+\gf passer, dépasser, traverser
+\gs kupita, kuvuka
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dádha
+\ps v tr
+\ge to make sth straight
+\gf redresser, relever qch
+\gs kusimamisha
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx dda
+\ps n
+\ge water
+\gf eau
+\gs maji
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddádha
+\ps v tr
+\ge to put aside, to take out of, remove
+\gf écarter, enlever, faire sortir
+\gs kuweka pembeni, kutosha
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx ddǎwà
+\ps n
+\ge medicine
+\gf médicament
+\gs dawa
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx ddèrr̀
+\ps n
+\ge granary
+\gf grenier
+\gs kinguku
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx ddéy
+\ps n
+\ge guinea fowl
+\gf pintade
+\gs kanga
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddéydha
+\ps v tr
+\ge to think
+\gf réfléchir
+\gs kuwaza
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx ddéydha
+\ps v tr
+\ge to try, to measure
+\gf essayer, mesurer
+\gs kujaribu, kupima
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx ddiy
+\ps n
+\ge thing, what?
+\gf chose, quoi?
+\gs kitu, nini?
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddiydhò
+\ps conj
+\ge because of
+\gf à cause de
+\gs kwa sababu
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx ddí
+\ps part
+\ge also
+\gf aussi
+\gs pia, vilevile
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddì
+\ps num
+\ge one
+\gf un
+\gs moja
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddìddìní
+\ps num
+\ge one by one
+\gf un à un
+\gs moja moja
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddǐnga
+\ps n cp
+\ge one-place, together
+\gf une place - ensemble
+\gs pamoja
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx ddìnì
+\ps num
+\ge first
+\gf premier
+\gs ya kwanza
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx ddǐrò
+\ps adv
+\ge alone
+\gf seul
+\gs pekee
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddíyàchú
+\ps part
+\ge again
+\gf encore
+\gs tena, mara nyingine
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx ddow
+\ps n
+\ge traditional gourd
+\gf calebasse traditionnelle
+\gs kibuyu
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddò
+\ps pp
+\ge from
+\gf de
+\gs toka
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx Ddrà
+\ps n
+\ge God
+\gf Dieu
+\gs Mungu
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrá
+\ps ?
+\ge small, young (people)
+\gf petit, jeune (des gens)
+\gs ndogo, kijana
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx ddri
+\ps num
+\ge ten
+\gf dix
+\gs kumi
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrìddrínga
+\ps n
+\ge unit of ten
+\gf dizaine
+\gs kumi, makuni
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrǒ
+\ps ?
+\ge many
+\gf beaucoup
+\gs wengi
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrǒ
+\ps adv
+\ge very much, very many
+\gf beaucoup
+\gs nyingi
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ddròddró
+\ps adj
+\ge big
+\gf grand
+\gs kubwa kubwa
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx ddrǒngó
+\ps adj
+\ge big
+\gf grand
+\gs kubwa
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx ddrrdhiy
+\ps num
+\ge nine
+\gf neuf
+\gs tisa
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrr̀
+\ps n
+\ge vein
+\gf veine
+\gs mushipa wa damu
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddrr̀dha
+\ps v tr sg
+\ge to pull
+\gf tirer
+\gs kukokota
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx ddrŕdha
+\ps v tr pl
+\ge to pull, uproot
+\gf déraciner
+\gs kuongoa
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ddu
+\ps n
+\ge day, date
+\gf jour, date
+\gs siku, tarehe
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddu
+\ps n
+\ge what?
+\gf quoi?
+\gs nini?
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddu
+\ps n
+\ge sleep
+\gf sommeil
+\gs usingizi
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ddudhò
+\ps conj
+\ge why?
+\gf pourquoi?
+\gs kwa sababu gani?
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ddùdha
+\ps v i
+\ge to sleep
+\gf dormir
+\gs kulala
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddùdha
+\ps v tr
+\ge to draw water
+\gf puisre
+\gs kuteka maji
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddǔwddǔw
+\ps adj
+\ge sweet
+\gf sucré
+\gs ya sukari
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddùwdha
+\ps v tr
+\ge to bend
+\gf courber 
+\gs kukunja
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx ddúwdha
+\ps v tr
+\ge to swallow
+\gf avaler
+\gs kumeza
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ddùwnì ~ ddûwnì  pl. ddúwní
+\ps n
+\ge son
+\gf fils
+\gs mtoto kijana
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx ddàdha
+\ps v tr
+\ge to pull
+\gf tirer
+\gs kukokota
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx ddùw
+\ps n
+\ge miracle
+\gf miracle
+\gs ajabu
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx dèydha
+\ps v i
+\ge to stand
+\gf se tenir debout
+\gs kusimama
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx déydha
+\ps v i
+\ge to stay
+\gf rester
+\gs kubaki
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx dhànì ~ dhânì  pl. dhání
+\ps n
+\ge daughter
+\gf fille 
+\gs binti
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx dhi
+\ps n
+\ge death, illness
+\gf mort, maladie
+\gs kifo, ugonjwa
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dhìdha
+\ps v i
+\ge to die
+\gf mourir
+\gs kukufa
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dhíy
+\ps n
+\ge calabash
+\gf calebasse
+\gs kibuyu
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx dhǐy
+\ps n
+\ge work
+\gf travail
+\gs kazi
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dhíydha
+\ps v tr
+\ge to ask
+\gf demander
+\gs kuuliza
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx dhì, sg ɦìytsiy
+\ps n
+\ge wives
+\gf épouses
+\gs wabibi, wake
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx dho
+\ps n
+\ge name
+\gf nom
+\gs jina
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx -dhokpa
+\ps n cp inal
+\ge hand
+\gf main
+\gs mukono
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx dhò
+\ps pp
+\ge for
+\gf pour
+\gs kwa
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dhòdha
+\ps v tr
+\ge to show
+\gf montrer
+\gs kuonyesha
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dhuw
+\ps n
+\ge animal fat
+\gf graisse d'animal
+\gs mafuta ya nyama
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dhùw
+\ps n
+\ge pumpkin
+\gf courge
+\gs maboke
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dìchú
+\ps adv
+\ge truly
+\gf en vérité
+\gs kweli
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx -dja
+\ps n inal
+\ge breast
+\gf sein, mamelle
+\gs maziwa, matiti
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx djanì  pl. djání
+\ps n
+\ge father
+\gf père
+\gs baba
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx djà
+\ps n
+\ge ball
+\gf ballon
+\gs mpira
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx -dja, pl. -djá
+\ps n
+\ge male
+\gf mâle
+\gs kiume
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djânì, pl. djání
+\ps n
+\ge mother-in-law
+\gf belle-mêre
+\gs mama mukwe
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dji
+\ps n
+\ge rain
+\gf pluie
+\gs mvua
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djiy
+\ps n
+\ge life
+\gf vie
+\gs uzima
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx djǐ
+\ps n
+\ge mushroom
+\gf champignon
+\gs uyoga
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djìdha
+\ps v tr
+\ge to spear
+\gf lancer
+\gs kutoboa na mkuki
+\xv
+\xe
+\dt 12/Jan/2013
+
+\lx djìydha
+\ps v tr
+\ge to push
+\gf pousser
+\gs kusukuma
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djow
+\ps n
+\ge hoe
+\gf houe
+\gs jembe
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx -djò-kpa
+\ps n cp inal
+\ge head
+\gf tête
+\gs kichwa
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx -djò-tey
+\ps n cp inal
+\ge back of head
+\gf derrière de la tête
+\gs nyuma ya kichwa
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx djòw
+\ps n
+\ge pig
+\gf cochon
+\gs nguruwe
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djuw
+\ps n
+\ge stone
+\gf pierre
+\gs jiwe
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx djú
+\ps pp
+\ge on
+\gf sur
+\gs juu
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx djùnì ~ djûnì  pl. djúní
+\ps n
+\ge brother
+\gf frère
+\gs ndugu
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx djùw
+\ps num
+\ge million
+\gf million
+\gs milioni
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx do
+\ps n
+\ge fear
+\gf peur
+\gs woga
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dôló
+\ps n
+\ge snail
+\gf escargot
+\gs konokono
+
+\xv
+\xe
+
+\dt 08/Jan/2013
+
+\lx dòma
+\ps n
+\ge harp
+\gf harpe
+\gs kinubi
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx dòwdha
+\ps v i
+\ge to sit
+\gf rester, être assis
+\gs kuikala
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx dràsà
+\ps n
+\ge s.o. born with a disability
+\gf qn né avec un handicap
+\gs mulema
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dràwà
+\ps ?
+\ge north
+\gf nord
+\gs kaskazini
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx drǒngo
+\ps adj
+\ge big
+\gf grand
+\gs kubwa
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dùdú
+\ps adj
+\ge very small
+\gf très petit
+\gs ndogo ndogo
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx dùwdha
+\ps v tr
+\ge to pound (in mortar)
+\gf piler (dans le mortier)
+\gs kutwanga
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx dyasi  pl. -dyási
+\ps n
+\ge friend
+\gf ami
+\gs rafiki
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx dyádyá
+\ps ?
+\ge bitter
+\gf amer
+\gs chungu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dyi
+\ps n
+\ge knife
+\gf couteau
+\gs kisu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dyì
+\ps n
+\ge dance
+\gf danse
+\gs mukeso
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dyúw
+\ps n
+\ge millet
+\gf millet
+\gs malu
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx dyànì, pl. dyání
+\ps n inal
+\ge rival wife, co-wife
+\gf femme rivale
+\gs mbanda
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx dyòwdha
+\ps v tr
+\ge to follow
+\gf suivre, poursuivre
+\gs kufuata
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx dza
+\ps n
+\ge house
+\gf maison
+\gs nyumba
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dza-djòkpa
+\ps n cp
+\ge roof of house
+\gf toit de la maison
+\gs paa ya nyumba
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx dza-koko
+\ps n cp
+\ge wall (of house)
+\gf mur (d'une maison)
+\gs ukuta
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dzarrkpa
+\ps n
+\ge hard broom
+\gf balai
+\gs kifagio
+\xv
+\xe tsuwka
+\dt 15/Jan/2013
+
+\lx dza-yà, pl. dza-ɦí
+\ps n cp
+\ge mother (of house)
+\gf mère (de la maison)
+\gs mama ya nyumba
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx dzàdha
+\ps v tr
+\ge to shoot (with arrow)
+\gf tirer (avec une flèche)
+\gs kupiga (na mushale)
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dzá-tsò
+\ps n cp
+\ge door
+\gf porte
+\gs mlango
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx dzèríy
+\ps n
+\ge basket
+\gf panier
+\gs aina ya kitunga kidogo
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx dzi
+\ps n
+\ge grave
+\gf tombeau
+\gs kaburi
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dziy
+\ps n
+\ge drum
+\gf tambour
+\gs ngoma
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx -dziy
+\ps n inal
+\ge back
+\gf dos
+\gs mugongo
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx dziy-djú
+\ps pp
+\ge after
+\gf après
+\gs nyuma, baada
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx -dziykpà
+\ps n cp inal
+\ge back
+\gf dos
+\gs mugongo
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx dziylíy
+\ps n
+\ge earth, world
+\gf terre, monde
+\gs udongo, dunia, ulimwengu
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx -dzìdzi
+\ps n inal
+\ge rib
+\gf côte
+\gs mbavu
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx -dzìy
+\ps n inal
+\ge smell
+\gf odeur
+\gs harufu
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx -dzu
+\ps n inal
+\ge thigh
+\gf cuisse
+\gs paja
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx dzuw
+\ps n
+\ge game
+\gf jeu
+\gs muchezo
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dzúwdha
+\ps v i
+\ge to play
+\gf jouer
+\gs kucheza
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx dzz̀-ddà
+\ps n cp
+\ge tears
+\gf larmes
+\gs machozi
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx dzz̀dha
+\ps v i / tr
+\ge to cry, weep, mourn
+\gf pleurer
+\gs kulia
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx fàrangà
+\ps n
+\ge money
+\gf argent
+\gs pesa
+
+\xv
+\xe mbu-hwo
+
+\dt 09/Jan/2013
+
+\lx fu
+\ps dem
+\ge that, close to hearer
+\gf cela
+\gs ile
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx fulè
+\ps ?
+\ge there
+\gf là-bas
+\gs kule, huko
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx fǔchú
+\ps
+\ge like that
+\gf comme cela
+\gs kama hivi
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gǎndà
+\ps n
+\ge cover of maize
+\gf écorce de mais
+\gs maganda ya mahindi
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gǎrì
+\ps n
+\ge bicycle
+\gf vélo
+\gs kinga, baisikeli
+\xv
+\xe
+\dt 08/Jan/2013
+
+\lx gbádha
+\ps v tr
+\ge to gather, collect
+\gf rassembler
+\gs
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx gbè
+\ps
+\ge like
+\gf semblable
+\gs sawasawa na
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx gbè ... chú
+\ps
+\ge as
+\gf comme
+\gs sawa, kama
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gbídha
+\ps v i
+\ge to be hot
+\gf être chaud
+\gs kuwa moto
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx gbìdha
+\ps v i imp
+\ge to burn
+\gf brûler
+\gs kulungua
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gbow
+\ps num
+\ge three
+\gf trois
+\gs tatu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gbówdha
+\ps v i
+\ge to bark
+\gf aboyer
+\gs kulia (kwa mbwa)
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx gbòwkàgbòw
+\ps adj
+\ge lukewarm
+\gf tiède
+\gs vuguvugu
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gbu-dja pl: gbu-djá
+\ps n
+\ge thief
+\gf voleur
+\gs mwizi
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gbǔ
+\ps n
+\ge laughter
+\gf rire
+\gs kicheko
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gbúdha
+\ps v tr
+\ge to wash
+\gf laver, lessiver
+\gs kusukula
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx gbúdha
+\ps v tr
+\ge to laugh
+\gf rire
+\gs kucheka
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx -gi
+\ps n inal
+\ge ear
+\gf oreille
+\gs sikio
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx -gitèy
+\ps n cp inal
+\ge cheek
+\gf joue
+\gs shavu
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx gǐtò
+\ps adv
+\ge aside
+\gf de côté
+\gs pembeni
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx gìy
+\ps n
+\ge lion
+\gf lion
+\gs simba
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gliy
+\ps n
+\ge buttocks
+\gf fesses
+\gs dandina, matako
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gògò
+\ps n
+\ge remainder
+\gf restes
+\gs mabaki ?
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gòw
+\ps n
+\ge tribe Alur
+\gf tribu des Alur
+\gs kabila ya Walulu
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx gòwdha
+\ps v tr
+\ge to produce, give birth
+\gf produire, enfanter
+\gs kuzidisha, kuzaa
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx gòwdha
+\ps v tr
+\ge to carry on the back
+\gf porter sur le dos
+\gs kubeba kwa mugongo
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx gòwdyì
+\ps n cp
+\ge two-edged knife
+\gf couteau à deux tranchants
+\gs kisu ya meno mbili
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gú
+\ps n
+\ge forest
+\gf forêt
+\gs mwitu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gû
+\ps n
+\ge wrestling
+\gf querelle
+\gs magombano
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gùdha
+\ps v i
+\ge to refuse
+\gf refuser
+\gs kukatala
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gúw
+\ps n
+\ge kind of bitter green vegetable
+\gf légume verte amère, esp.
+\gs aina ya mboga chungu
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx gǔw
+\ps n
+\ge white ants (termites)
+\gf termites
+\gs iswa
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gǔw
+\ps n
+\ge left hand
+\gf main gauche
+\gs mukono ya kushoto
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx gwídha
+\ps v tr
+\ge to vomit
+\gf vomir
+\gs kutapika
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx gwídhi
+\ps n
+\ge leopard
+\gf léopard
+\gs chui
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx gwíydha
+\ps v tr
+\ge to teach
+\gf enseigner
+\gs kufundisha
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx gwódha
+\ps v i
+\ge to crawl
+\gf ramper
+\gs kutambala
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx -hì
+\ps n inal
+\ge breath
+\gf respiration
+\gs pumzi
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx hôw
+\ps n
+\ge rubbish
+\gf verdures
+\gs muchafu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx hôw-líy
+\ps n
+\ge dust
+\gf poussière
+\gs mavumbi
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx huwru
+\ps n
+\ge ashes
+\gf cendres
+\gs majivu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx hùdha
+\ps v tr
+\ge to take the grains out of the husks
+\gf égréner
+\gs kukondoa
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx hwàdha
+\ps v tr
+\ge to crush
+\gf écraser
+\gs kukanyaga
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx hwî
+\ps n
+\ge happiness, joy
+\gf joie
+\gs furaha
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx hwî
+\ps n
+\ge cough
+\gf toux
+\gs kikohozi
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx hwìdha
+\ps v tr
+\ge to spit, to cough
+\gf cracher, tousser
+\gs kutema mate, kukohoa
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx hwìdha
+\ps v tr
+\ge to kill
+\gf tuer
+\gs kuua
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx hwô
+\ps n
+\ge weeds
+\gf mauvaises herbes
+\gs yalala
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx hwòdha
+\ps v tr
+\ge to roll up
+\gf enrouler
+\gs kuviringisha
+\xv
+\xe
+\dt 12/Jan/2013
+
+\lx hwòdha
+\ps v tr
+\ge to weed
+\gf sarcler
+\gs kusekelea
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx hádha
+\ps v tr
+\ge to plough
+\gf remuer la terre
+\gs kulima tena
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx isś
+\ps n
+\ge sun
+\gf soleil
+\gs jua
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx iygá
+\ps n
+\ge grass for thatching
+\gf pailles
+\gs nyasi
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx í
+\ps dem 
+\ge this, close to speaker
+\gf ceci
+\gs hii
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx ì
+\ps pn 3.pl reflexive / logophoric
+\ge they, themselves, their own
+\gf eux, eux-mêmes 
+\gs wao wenyewe
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx ìdhí
+\ps poss
+\ge their own, 3pl log.
+\gf leur, leurs
+\gs yao wenyewe
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx íydha
+\ps v tr
+\ge to call
+\gf appeler
+\gs kuita
+
+\xv
+\xe
+
+\dt 15/Jan/2013
+
+\lx jànji
+\ps n
+\ge spear grass
+\gf paille
+\gs nyasi
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx ji
+\ps n
+\ge love
+\gf amour
+\gs mapendo
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx jìdha
+\ps v tr
+\ge to love
+\gf aimer
+\gs kupenda
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx jow
+\ps n
+\ge elephant
+\gf éléphant
+\gs tembo
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx juw
+\ps n
+\ge blood
+\gf sang
+\gs damu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx jǔw
+\ps ?
+\ge wet
+\gf mouillé
+\gs ya majimaji
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx ka
+\ps pn 3.sg
+\ge one
+\gf on
+\gs wa-
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx ka
+\ps n
+\ge smithy
+\gf forge
+\gs pahali pa kufua
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx kadha
+\ps n
+\ge light
+\gf lumière
+\gs nuru, mwangaza
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx kaley
+\ps n
+\ge kraal
+\gf enclos
+\gs luba
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx kǎ
+\ps n
+\ge red fruit, strawberry, mulberry, raspberry
+\gf fruit rouge: mu^r, fraise, fromboise
+\gs aina mbalimbali za matunda mekundu
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx kádha
+\ps v i
+\ge to light, to shine
+\gf éclairer, briller
+\gs kuangaza
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx kàdha and kádha
+\ps v i
+\ge to be worthy
+\gf être digne, suffire, convenir
+\gs kustahili, kutosha, kuenea
+\xv
+\xe both exist, unidentified meaning difference
+\dt 15/Jan/2013
+
+\lx kàlángà
+\ps n
+\ge groundnuts, peanuts
+\gf arachides
+\gs kalanga
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx kàlíy
+\ps n
+\ge firewood
+\gf bois de chauffage
+\gs kuni
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx kǎmbiy
+\ps n
+\ge mortar
+\gf mortier
+\gs kitwangio
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx kàss
+\ps n
+\ge fire
+\gf feu
+\gs moto
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx kě
+\ps part
+\ge what about...
+\gf alors
+\gs basi
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx kíkì
+\ps n
+\ge insect, sp.
+\gf insecte, esp.
+\gs aina ya vidudu
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kǐ-tss̀
+\ps n
+\ge Ndo Okebu tribe
+\gf tribu Ndo Okebu
+\gs kabila ya wafula chuma
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx klôw
+\ps n
+\ge power, strength
+\gf force, puissance
+\gs nguvu, uwezo
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx -koko
+\ps n inal
+\ge foot
+\gf pied
+\gs mguu
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx kow
+\ps n
+\ge sugarcane
+\gf canne à sucre
+\gs muwa
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kónóchú
+\ps conj
+\ge then, thereafter
+\gf et puis, après cela
+\gs halafu, kisha
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kòwdha
+\ps v tr
+\ge to marry
+\gf marier, épouser
+\gs kuoa, kuunga ndoa
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx kòwdha
+\ps v tr
+\ge to run
+\gf courir
+\gs kukimbia
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx kpa
+\ps n
+\ge male, boy
+\gf mâle, garçon
+\gs mwanaume
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpalá
+\ps n
+\ge bone
+\gf os
+\gs mfupa
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kpalúw
+\ps n
+\ge son
+\gf fils
+\gs mwana (kijana)
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx kpass̀
+\ps n
+\ge man, male
+\gf homme, masculin
+\gs mwanaume, bwana
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpass̀, kpání
+\ps n
+\ge husband
+\gf mari
+\gs bwana
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx kpǎ
+\ps ideo
+\ge completely
+\gf complètement
+\gs kabisa
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx kpádha
+\ps v tr
+\ge to rake
+\gf sarcler
+\gs kupalilia
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kpákpá
+\ps adj
+\ge strong
+\gf fort
+\gs nguvu
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpákpánga
+\ps n
+\ge difficulty, hardness, hardship, strength
+\gf force, puissance
+\gs uwezo, nguvu
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kpǎnò
+\ps n
+\ge saucepan
+\gf casserole
+\gs chungu (ya kusonga ugali)
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx kpǎrr̀kpǎrr̀
+\ps adj
+\ge flat
+\gf plat
+\gs sawasawa
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpechú
+\ps conj
+\ge even though
+\gf même si
+\gs hata kama
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpéy
+\ps adv
+\ge in vain
+\gf en vain
+\gs bure
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpìdha
+\ps v tr
+\ge to spread out
+\gf étaler
+\gs kuanika
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kplǎ
+\ps adv
+\ge totally down
+\gf complètement en bas
+\gs chini kabisa
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kpliy
+\ps ?
+\ge deep
+\gf profond
+\gs ndani
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kplúw
+\ps adj
+\ge all at once
+\gf tous, entièrement
+\gs yote, muzima
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kprř
+\ps ideo
+\ge (to hold) tightly
+\gf (tenir) fortement
+\gs (kushika) kwa nguvu
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx kpǔ
+\ps n
+\ge pocket
+\gf poche
+\gs mfuko
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kpǔ
+\ps n
+\ge middle
+\gf milieu
+\gs katikati
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx krr̀dha
+\ps v tr sg
+\ge to cut
+\gf couper
+\gs kukata
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx krŕdha
+\ps v tr pl
+\ge to cut into pieces
+\gf découper
+\gs kukatakata
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx krùdha
+\ps v tr sg
+\ge to uproot
+\gf déterrer, gratter la terre
+\gs
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx krúdha
+\ps v tr pl
+\ge to scratch
+\gf gratter
+\gs kukuna
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx ku
+\ps n
+\ge salt
+\gf sel
+\gs chumvi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx -kuw
+\ps n inal
+\ge tooth
+\gf dent
+\gs jino
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kúw
+\ps n
+\ge night, black, dark
+\gf nuit, noir, sombre
+\gs usiku, nyeusi, giza
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx -kùw
+\ps n inal
+\ge arm, hand
+\gf bras, main
+\gs mukono
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kúwchù
+\ps n
+\ge green vegetables
+\gf légumes vertes
+\gs mboga nyeusi
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx kùwdha
+\ps v tr
+\ge to fry
+\gf griller
+\gs kukalangisha
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx kǔwdha
+\ps n
+\ge kite
+\gf épervier
+\gs kapepela
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx -kùw-djú
+\ps n cp inal
+\ge shoulder
+\gf épaule
+\gs mabega
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx -kúwkùw
+\ps n inal
+\ge chin
+\gf menton
+\gs kidevu
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx -kùw-tsò
+\ps n cp inal
+\ge shoulder
+\gf épaule
+\gs mabega
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kwí
+\ps n
+\ge maize
+\gf mais
+\gs muhindi, mahindi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kwo
+\ps n
+\ge smoke
+\gf fumée
+\gs moshi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kwòdha
+\ps v tr
+\ge to break
+\gf briser, casser
+\gs kuvunja
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx kwódha
+\ps v tr
+\ge to borrow
+\gf emprunter
+\gs kukopesha
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx kwódha
+\ps v i
+\ge to rain
+\gf pleuvoir
+\gs kunyesha
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx kyǒw
+\ps n
+\ge mirror
+\gf miroir
+\gs kioo
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx kàdha
+\ps v tr
+\ge to bite
+\gf mordre
+\gs kuluma
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx kádha
+\ps v tr
+\ge to bite (food)
+\gf croquer (nourriture)
+\gs kukula kitu nguvu nguvu
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx la
+\ps n
+\ge fight, war
+\gf combat, guerre
+\gs vita
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx là
+\ps n
+\ge white man
+\gf Blanc
+\gs Muzungu
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx làdha
+\ps v r
+\ge to lean, bend
+\gf se pencher, mettre dans un sens oblique
+\gs
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx làdha
+\ps v tr
+\ge to lie s.o. down
+\gf coucher qn
+\gs kulalisha
+
+\xv
+\xe
+
+\dt 12/Jan/2013
+
+\lx làlà
+\ps n
+\ge lightning
+\gf éclairs, foudre
+\gs umeme
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx làliy
+\ps n
+\ge sweet potato
+\gf patate douce
+\gs viazi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx làɦi
+\ps n
+\ge relatives
+\gf membres de la famille
+\gs jamaa
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx ley
+\ps n
+\ge fight between two people
+\gf combat entre deux personnes
+\gs magombano kati ya watu wawili
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx ley
+\ps n
+\ge ring
+\gf bague
+\gs pete
+\xv
+\xe
+\dt 10/Jan/2013
+
+\lx leyngey
+\ps n
+\ge bell, cowbell
+\gf cloche, clochette pour la vache
+\gs kengele, kengele ya ngombe
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lěy
+\ps n
+\ge spear
+\gf lance
+\gs mukuki
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx léydha
+\ps v tr
+\ge to put
+\gf mettre, placer
+\gs kuweka
+\xv CAUS
+\xe
+\dt 16/Jan/2013
+
+\lx lěytà
+\ps n
+\ge charcoal
+\gf charon
+\gs makala
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx li
+\ps n
+\ge person
+\gf personne
+\gs mutu
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx liy
+\ps n
+\ge flute
+\gf flûte
+\gs filimbi
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx -liy
+\ps n inal
+\ge jaw
+\gf machoire
+\gs taya
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx lídha
+\ps v r
+\ge to return
+\gf se tourner
+\gs kugeuka
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx lílí
+\ps n
+\ge epilepsy
+\gf épilepsie
+\gs kifafa
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lǐy
+\ps n
+\ge monkey
+\gf singe
+\gs makako
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx líylíy
+\ps adj
+\ge hot
+\gf chaud
+\gs ya moto
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lo
+\ps n
+\ge horn (of animal)
+\gf corne (d'animal)
+\gs pembe (ya nyama)
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lò
+\ps n
+\ge speech, word
+\gf parole
+\gs misemo
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lǒ
+\ps n
+\ge axe
+\gf hache
+\gs shoka
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lòdha
+\ps v i sg
+\ge to jump
+\gf sauter
+\gs kutambuka
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx lódha
+\ps v i pl
+\ge to jump
+\gf sauter
+\gs kutambuka
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx lórr̀dja
+\ps n
+\ge lizard
+\gf lézard
+\gs mujusi
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx lòw
+\ps n
+\ge eggplant
+\gf aubergine
+\gs nyanya
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx lów
+\ps n
+\ge flame tree
+\gf flamboyant
+\gs aina ya muti na maua mekundu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx lòwdha
+\ps v tr sg
+\ge to catch
+\gf saisir, prendre
+\gs kukamata
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx lówdha
+\ps v tr pl
+\ge to catch
+\gf saisir, prendre
+\gs kukamata
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx lu
+\ps n
+\ge guest
+\gf visiteur
+\gs mugeni
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx luwtò
+\ps adv
+\ge back
+\gf vers derrière
+\gs nyuma
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx lùlú
+\ps n
+\ge star
+\gf étoile
+\gs nyota
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx lúw
+\ps n
+\ge small hawk
+\gf petit épervier
+\gs kapepela
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ma
+\ps pn 1.sg
+\ge I, me, my
+\gf je, moi, me
+\gs mimi, yangu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx madha
+\ps n
+\ge thanks
+\gf remerciement
+\gs shukurani
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mà
+\ps pn 1.pl
+\ge we, us, our
+\gf nous, notre
+\gs sisi, yetu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx màdhí
+\ps poss
+\ge our, 1pl
+\gf notre, nos
+\gs yetu
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx màsúwà
+\ps n
+\ge vehicle, car
+\gf véhicule, voiture
+\gs gari
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx mbàdha
+\ps v tr
+\ge to bring
+\gf amener, apporter
+\gs kuleta, kufikisha
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mbílímbílí
+\ps adj
+\ge thin
+\gf mince
+\gs nyembamba
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx mbrà
+\ps n
+\ge arrow
+\gf flèche
+\gs mushale
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mbu
+\ps n
+\ge metal, money
+\gf métal, argent
+\gs chuma, pesa
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx mbu
+\ps num
+\ge five
+\gf cinq
+\gs tano
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mbu-hwo
+\ps n cp
+\ge money coins
+\gf pièces d'argent
+\gs kichele
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx mbukpa
+\ps n
+\ge weapon
+\gf arme
+\gs silaha
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mbùdha
+\ps v tr
+\ge to drink
+\gf boire
+\gs kukunywa
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mbúdha
+\ps v tr
+\ge to embrace
+\gf embrasser
+\gs kumbatia
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx mbwa
+\ps n
+\ge lie
+\gf mensonge
+\gs uwongo
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx méy
+\ps n
+\ge papyrus, mat made of papyrus
+\gf papyrus, natte faite de papyrus
+\gs kilako
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mèydha
+\ps v tr
+\ge to search, look for
+\gf chercher
+\gs kutafuta
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx měyyá
+\ps n
+\ge wealth (in terms of cattle)
+\gf richesse (en bétail)
+\gs mali (ya kufuga)
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mínganà
+\ps conj
+\ge when
+\gf lorsque
+\gs wakati
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx mǔdhì
+\ps n
+\ge owl
+\gf hibou
+\gs bundi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx mùsórò
+\ps n
+\ge taxes
+\gf impôt
+\gs palata, kodi
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx màdha
+\ps v i
+\ge to ripen
+\gf devenir rouge, mûrir
+\gs kuivya
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx màdha
+\ps v i
+\ge to remain
+\gf rester
+\gs kubaki
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx mádha
+\ps v i
+\ge to praise, thank
+\gf remercier, louer
+\gs kushukuru, kusifu
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx màtsá
+\ps poss
+\ge my, 1sg
+\gf mon, ma, mes
+\gs yangu
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx nà
+\ps pp
+\ge with
+\gf avec
+\gs na
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ndaní
+\ps conj
+\ge so that
+\gf afin que, pour que
+\gs ili
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ndà
+\ps n
+\ge frog
+\gf grenouille
+\gs chura
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndèy
+\ps pn 3.sg reflexive / logophoric
+\ge he, him self, his own
+\gf lui-même
+\gs yeye mwenyewe
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndèymí
+\ps poss
+\ge his, her own, 3sg log
+\gf son, sa, ses
+\gs yake
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx ndèytsò
+\ps n cp inal
+\ge nose
+\gf nez
+\gs pua
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ndì
+\ps ?
+\ge far away
+\gf loin
+\gs mbali
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndǐba
+\ps n
+\ge sunbird
+\gf colibri
+\gs aina ya ndege ndogo
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndíydha
+\ps v tr
+\ge to write
+\gf écrire
+\gs kuandika
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx ndòdha
+\ps v tr
+\ge to divide, separate
+\gf diviser, séparer
+\gs kugawa, kutenga
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ndrìydha
+\ps v i
+\ge to approach
+\gf approcher
+\gs kukaribia
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ndrr̀
+\ps n
+\ge goat
+\gf chèvre
+\gs mbuzi
+
+\xv
+\xe
+
+\dt 09/Jan/2013
+
+\lx ndrř
+\ps ?
+\ge full
+\gf plein
+\gs ya kujaa
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndrr̀-djà
+\ps n cp
+\ge goat milk
+\gf lait de la chèvre
+\gs maziwa ya mbuzi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndrr̀tsíy
+\ps n cp
+\ge cow
+\gf vache
+\gs ngombe
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ndrǔ
+\ps pn 3.pl
+\ge they, them, their
+\gf ils, eux, leur
+\gs wao
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndrǔ
+\ps n
+\ge people
+\gf gens
+\gs watu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ndrúdha
+\ps v i
+\ge to snore
+\gf ronronner
+\gs kukoroma
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ndrǔdhí
+\ps poss
+\ge their, 3pl
+\gf leur, leurs
+\gs yao
+\xv
+\xe
+\dt 15/Jan/2013
+
+\lx ndu
+\ps adv
+\ge today
+\gf aujourd'hui
+\gs leo
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx nduw
+\ps n
+\ge cloud
+\gf nuage
+\gs wingo
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ney
+\ps n
+\ge anthill
+\gf termitière
+\gs kisukulu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx nèné
+\ps n
+\ge spider
+\gf araignée
+\gs buibui
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx nga
+\ps n
+\ge place
+\gf place, endroit
+\gs pahali, fasi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngǎ
+\ps part
+\ge NEG: not there
+\gf pas
+\gs hakuna
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngàdha
+\ps v i
+\ge to germinate, to grow
+\gf germer, pousser
+\gs kuota
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ngàdha
+\ps v tr
+\ge to start, to begin
+\gf commencer
+\gs kuanza
+\xv
+\xe
+\dt 09/Jan/2013
+
+\lx ngádha
+\ps v tr
+\ge to untie
+\gf délier
+\gs kufungua
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ngǎjìní
+\ps adj
+\ge bad
+\gf mauvais
+\gs mubaya
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngǎsíyá
+\ps n
+\ge fish, sp.
+\gf poisson, esp.
+\gs aina ya samaki
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngba  pl: nzòw
+\ps n
+\ge child
+\gf enfant
+\gs mtoto
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngba-dja, pl. ngba-djá
+\ps n cp
+\ge father (of child)
+\gf père
+\gs baba
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngba-yà pl: ngba-ɦíy
+\ps n cp
+\ge mother (of child)
+\gf mère
+\gs mama ya mtoto
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ngbádha
+\ps v i
+\ge to ferment
+\gf fermenter
+\gs kuchacha
+
+\xv
+\xe
+
+\dt 17/Jan/2013
+
+\lx ngbángbá
+\ps adj < v
+\ge sour
+\gf fermenté
+\gs ya kuchacha
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngbídha
+\ps v r
+\ge to stand up
+\gf se lever
+\gs kuamuka
+
+\xv
+\xe
+
+\dt 16/Jan/2013
+
+\lx ngblùwngblùw
+\ps n
+\ge tadpole
+\gf tétard
+\gs watoto wa chura
+
+\xv
+\xe Alt: ngbi�li�ngbi`li`
+
+\dt 11/Jan/2013
+
+\lx ngbòdha
+\ps v tr
+\ge to throw
+\gf jeter
+\gs kutupa
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ngbu-dja
+\ps n
+\ge thief
+\gf voleur
+\gs mwizi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngbú
+\ps ?
+\ge red
+\gf rouge
+\gs nyekundu
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngbùkàngbù
+\ps adj
+\ge brown
+\gf rougeâtre, brun
+\gs isio nyekundu kabisa
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngbǔw
+\ps n
+\ge big sweet potatoes
+\gf grosse patate douce
+\gs viazi vikubwa
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngbùwdha
+\ps v tr sg
+\ge to confuse
+\gf troubler
+\gs kukoroga
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ngbúwdha
+\ps v tr pl
+\ge to mix
+\gf mélanger
+\gs kuchanga
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ngèy
+\ps n
+\ge story, folktale
+\gf conte, fable
+\gs hadizi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngéy
+\ps adj
+\ge other
+\gf autre
+\gs nyingine
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngéyngéy
+\ps adv
+\ge differently
+\gf différemment
+\gs mbalimbali
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngiy
+\ps n
+\ge rope, string
+\gf corde
+\gs kamba
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngíss̀djú
+\ps n
+\ge evening
+\gf soir
+\gs mangaribi
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngìydhá
+\ps n
+\ge snake (gen)
+\gf serpent
+\gs nyoka
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngow
+\ps n
+\ge race
+\gf course
+\gs kukimbia
+\xv
+\xe
+\dt 17/Jan/2013
+
+\lx ngòngò
+\ps n
+\ge waves
+\gf vagues
+\gs mawimbi
+\xv
+\xe
+\xe
+\dt 11/Jan/2013
+
+\lx ngǒrá
+\ps n
+\ge cassava
+\gf manioc
+\gs muhogo
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx -ngò-tsò
+\ps n cp inal
+\ge chest
+\gf poitrine
+\gs kifua
+
+\xv
+\xe
+
+\dt 10/Jan/2013
+
+\lx ngòw
+\ps n
+\ge hill, mountain, region
+\gf colline, montagne, région
+\gs kilima, nchi
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngòwdha
+\ps v tr
+\ge to smell
+\gf sentir
+\gs kunusa
+\xv
+\xe
+\dt 11/Jan/2013
+
+\lx ngówdha
+\ps v i
+\ge to evaporate
+\gf évaporer
+\gs kutoweka
+\xv
+\xe
+\dt 16/Jan/2013
+
+\lx ngù
+\ps n
+\ge Irish potato
+\gf pomme de terre
+\gs viazi vya Ulaya
+
+\xv
+\xe
+
+\dt 11/Jan/2013
+
+\lx ngù
+\ps n
+\ge barrenness, sterility
+\gf stérilité
+\gs tasa
+\xv
+\xe
+\dt 16/Jan/2013
+

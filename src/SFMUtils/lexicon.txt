@@ -1,0 +1,91 @@
+﻿\_sh v3.0  718  lexeme
+\_DateStampHasFourDigitYear
+
+\lx aa
+\nt Testing the link checker
+
+\lx aa2
+
+\lx aa good simple link
+\mn aa
+
+\lx aa good link to first homograph may fail
+\mn aa1
+
+\lx aa bad simple link
+\mn aaxx
+
+\lx aa good numbered link
+\mn aa2
+
+\lx aa bad numbered link where aa exists
+\mn aa3
+
+\lx aa bad numbered link where aaxx doesn't exist
+\mn aaxx3
+
+\lx ab
+\hm 1
+
+\lx ab
+\hm 2
+
+\lx ab good numbered link using hm
+\mn ab3
+
+\lx hh
+\hm b
+\nt Testing that bad hm or extra hm doesn't break anything
+
+\lx hhh
+\hm 1
+\sn
+\de test
+\hm 2
+
+\lx hhh3
+\hm 4
+
+\lx j
+\ps v
+\sn 1
+\de jump
+\sn 1.1
+\de hop
+\sn 1.2
+\de leap
+\sn 2
+\de assault
+
+\lx jj
+\ps n
+\sn 3
+\de foo
+\ps n
+\sn 2
+\de bar
+
+\lx jjj
+\se jjjaa
+\ps n
+\sn
+\de foo
+\ps n
+\sn 
+\de bar
+
+\lx jjjj
+\ps n
+\sn 
+\de foo
+\ps n
+\sn 2
+\de bar
+
+
+\lx uu
+\nt Testing unicode character counter
+\de  asdf
+\dn अपुरा, अविश्वास, अयोग्य
+\dt 08/Apr/2012
+

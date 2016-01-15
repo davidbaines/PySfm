@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>SfmPython</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<filteredResources>
+		<filter>
+			<id>1396240887359</id>
+			<name></name>
+			<type>21</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-*.py</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1396236437657</id>
+			<name>src/SFMUtils</name>
+			<type>29</type>
+			<matcher>
+				<id>org.eclipse.ui.ide.multiFilter</id>
+				<arguments>1.0-name-matches-false-false-*.py</arguments>
+			</matcher>
+		</filter>
+	</filteredResources>
+</projectDescription>
