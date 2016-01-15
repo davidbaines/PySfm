@@ -29,17 +29,17 @@ By default, it reads the regexes in from regex.txt, applies them one by one on l
 
 In the regex file, individual regexes can be quickly disabled (no need to delete them), and they can be set as multiline for the whole file ('broad'), or as multiline within specific SFM fields' contents ('narrow'). For example, here are two sample regexes that both do the same orthography change: they replace an "x" with "ks" when found after a vowel in the \lx field's contents, without changing other fields or changing \lx to \lks
 
------------------
-##Replace post-vocalic x with ks within the vernacular field, \lx
-*
-^(\\lx\b.*[aeiou])x(.*)$
-\1ks\2
+  -----------------
+  ##Replace post-vocalic x with ks within the vernacular field, \lx
+  *
+  ^(\\lx\b.*[aeiou])x(.*)$
+  \1ks\2
 
-##Replace post-vocalic x with ks within the vernacular field, \lx
-lx
-([aeiou])x
-\1ks
------------------
+  ##Replace post-vocalic x with ks within the vernacular field, \lx
+  lx
+  ([aeiou])x
+  \1ks
+  -----------------
 
 The latter could just as easily have specified a list of fields such as "lx se va cf sy an lf gv xv" rather than just "lx", without complicated the regex itself. But the former is able to also modify field markers--e.g. rename non-standard ones to MDF, delete entire fields, or even move fields around.
 
